@@ -1,6 +1,6 @@
 # weatherapp
 ## Date: 27-07-2023
-###Sadiq
+### Sadiq
 --
 ### Functions
 A simple weather application that displays weather information
